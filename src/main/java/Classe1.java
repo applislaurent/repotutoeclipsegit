@@ -3,7 +3,7 @@ public class Classe1 {
 
 	public static void maMethode() {
 
-		int nouvelAttribut = 2;
+		int nouvelAttribut = 3;
 		
 	}
 	
